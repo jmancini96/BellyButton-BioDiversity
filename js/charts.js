@@ -81,7 +81,6 @@ function buildCharts(sample) {
       x: sampleValues,
       y: yticks,
       text: otuLabels,
-      orientation: 'h',
       type: "bar"
     }];
     // 9. Create the layout for the bar chart. 
